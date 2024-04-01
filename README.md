@@ -1,0 +1,1 @@
+Sistema bancário desenvolvido em Python. O sistema deve oferecer as operações de depósito, saque e extrato realizando a tratativa das entradas recebidas e informando ao usuário as movimentações realizadas na conta bancária. 
